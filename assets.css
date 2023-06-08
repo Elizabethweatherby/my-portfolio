@@ -72,16 +72,21 @@ section {
     height: 200px;
     margin: auto;
 }
+
+
+/* for tablets
 @media screen and (max-width: 992px) {
     header, main, nav, .card {
         flex-direction: column
     }
 }
+/* for large smartphones
 @media screen and (max-width: 768px) {
     header, main, nav, .card {
         width: 50%;
     }
 }
+/* for small phones
 @media screen and (max-width: 576px) {
     header, main, nav, .card {
         width: 100%;
