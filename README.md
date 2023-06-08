@@ -3,4 +3,5 @@ name, my picture, and a navigational menu at the top, and when clicked on one th
 This is a link to my github repo!
 https://github.com/Elizabethweatherby/my-portfolio
 
-image.png
+
+![Screenshot 2023-06-08 122335](https://github.com/Elizabethweatherby/my-portfolio/assets/47335796/cfa97aaf-7de8-4a56-b439-cd140496004c)
